@@ -17,7 +17,7 @@
         <li><a href="#contact" class="hover:text-red-300">Contact</a></li>
       </ul>
       <a href="#askai" class="bg-white text-[#3e0d02] font-semibold text-sm py-2 px-4 rounded-md shadow-md hover:bg-gray-100 transition">
-        Ask Ai
+        Ask AI
       </a>
     </div>
   </nav>

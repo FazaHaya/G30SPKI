@@ -1,0 +1,53 @@
+[
+    {
+      "pertanyaan": "Apa kepanjangan dari G30S/PKI?",
+      "pilihan": ["Gerakan 30 September/Partai Komunis Indonesia", "Gerakan 3 Oktober/Partai Komunis Internasional", "Gerakan 30 Siswa/PKI", "Gabungan 30 Sekutu/PKI"],
+      "jawaban": "Gerakan 30 September/Partai Komunis Indonesia"
+    },
+    {
+      "pertanyaan": "Kapan peristiwa G30S/PKI terjadi?",
+      "pilihan": ["30 September 1965", "17 Agustus 1945", "1 Juni 1945", "10 November 1945"],
+      "jawaban": "30 September 1965"
+    },
+    {
+      "pertanyaan": "Siapa tokoh yang menjadi salah satu korban G30S/PKI?",
+      "pilihan": ["Soekarno", "Soeharto", "Ahmad Yani", "Mohammad Hatta"],
+      "jawaban": "Ahmad Yani"
+    },
+    {
+      "pertanyaan": "Apa tujuan utama G30S/PKI?",
+      "pilihan": ["Menghapus penjajahan Belanda", "Mengambil alih kekuasaan negara", "Mendirikan kerajaan", "Menegakkan hukum adat"],
+      "jawaban": "Mengambil alih kekuasaan negara"
+    },
+    {
+      "pertanyaan": "Di mana jenazah para jenderal ditemukan?",
+      "pilihan": ["Monumen Nasional", "Lubang Buaya", "Istana Merdeka", "Benteng Vredeburg"],
+      "jawaban": "Lubang Buaya"
+    },
+    {
+      "pertanyaan": "Siapa yang akhirnya naik menjadi Presiden setelah peristiwa G30S/PKI?",
+      "pilihan": ["Soekarno", "Soeharto", "Habibie", "Megawati"],
+      "jawaban": "Soeharto"
+    },
+    {
+      "pertanyaan": "Apa nama museum yang menyimpan memori G30S/PKI?",
+      "pilihan": ["Museum Nasional", "Museum Fatahillah", "Museum Lubang Buaya", "Museum Geologi"],
+      "jawaban": "Museum Lubang Buaya"
+    },
+    {
+      "pertanyaan": "Berapa jumlah jenderal yang menjadi korban dalam peristiwa ini?",
+      "pilihan": ["3", "5", "6", "7"],
+      "jawaban": "6"
+    },
+    {
+      "pertanyaan": "Apa nama dokumen resmi yang digunakan untuk menyatakan PKI sebagai organisasi terlarang?",
+      "pilihan": ["Tap MPRS No. XXV/1966", "UUD 1945", "Supersemar", "Dekrit Presiden"],
+      "jawaban": "Tap MPRS No. XXV/1966"
+    },
+    {
+      "pertanyaan": "Siapa pemimpin PKI saat peristiwa ini terjadi?",
+      "pilihan": ["Tan Malaka", "D.N. Aidit", "Sukarno", "Amir Sjarifuddin"],
+      "jawaban": "D.N. Aidit"
+    }
+  ]
+  
