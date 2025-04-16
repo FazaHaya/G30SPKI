@@ -17,7 +17,7 @@ class ContactController extends Controller
             'message' => 'required',
         ]);
 
-        Mail::to('xixiperson15@gmail.com')->send(new ContactMail($request->all()));
+        // Mail::to('xixiperson15@gmail.com')->send(new ContactMail($request->all()));
 
         return back()->with('success', 'Pesan kamu berhasil dikirim!');
     }
